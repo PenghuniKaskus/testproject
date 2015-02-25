@@ -1,3 +1,3 @@
 <?php
-	//MySQL Config ada di sini.
+	echo "Update Config File";
 ?>
