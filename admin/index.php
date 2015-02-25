@@ -1,3 +1,3 @@
 <?php
-	//Isi dari admin.php
+	echo "Halaman Admin Neh";
 ?>
